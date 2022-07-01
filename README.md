@@ -1,2 +1,2 @@
 # Adivinhe_o_numero
-Jogo Adivinhe o número
+Jogo Adivinhe o número, feito com python utilizando PysimpleGui.
